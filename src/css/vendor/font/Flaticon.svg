@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2020-5-2: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Sat May  2 09:05:14 2020
+ By root
+
+</metadata>
+<defs>
+<font id="Flaticon" horiz-adv-x="200" >
+  <font-face 
+    font-family="Flaticon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -48 480 432"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="001-elevator" unicode="&#xf100;" horiz-adv-x="512" 
+d="M472 432c4.41602 0 8 -3.58398 8 -8v-464c0 -4.41602 -3.58398 -8 -8 -8h-336c-4.41602 0 -8 3.58398 -8 8v464c0 4.41602 3.58398 8 8 8h336zM296 -32v384h-128v-384h128zM440 -32v384h-128v-384h128zM464 -32v448h-320v-448h8v392c0 4.41602 3.58398 8 8 8h288
+c4.41602 0 8 -3.58398 8 -8v-392h8zM104 280c4.41602 0 8 -3.58398 8 -8v-160c0 -4.41602 -3.58398 -8 -8 -8h-96c-4.41602 0 -8 3.58398 -8 8v160c0 4.41602 3.58398 8 8 8h96zM96 120v144h-80v-144h80zM86.8799 212.08
+c0.617188 -1.04199 1.11914 -2.86914 1.11914 -4.08008c0 -4.41504 -3.58398 -7.99902 -7.99902 -8h-48c-4.41504 0.000976562 -7.99902 3.58496 -7.99902 8c0 1.21094 0.501953 3.03809 1.11914 4.08008l24 40c1.36133 2.02051 4.44336 3.66016 6.87988 3.66016
+s5.51855 -1.63965 6.87988 -3.66016zM46.1602 216h19.6797l-9.83984 16.4805zM49.1436 131.88l-24 40c-0.629883 1.0498 -1.1416 2.89551 -1.1416 4.12012c0 4.41504 3.58301 7.99902 7.99805 8h48c4.41504 -0.000976562 7.99805 -3.58496 7.99805 -8
+c0 -1.22461 -0.511719 -3.07031 -1.1416 -4.12012l-24 -40c-1.28711 -2.14062 -4.35938 -3.87695 -6.85645 -3.87695s-5.56934 1.73633 -6.85645 3.87695zM65.8721 168h-19.7441l9.87207 -16.4482zM184 400h16v-16h-16v16zM216 400h16v-16h-16v16zM248 400h16v-16h-16v16z
+M280 400h16v-16h-16v16zM312 400h16v-16h-16v16zM344 400h16v-16h-16v16zM376 400h16v-16h-16v16zM408 400h16v-16h-16v16z" />
+  </font>
+</defs></svg>

@@ -1,0 +1,52 @@
+.elevator-card-item {
+  display: inline-block;
+  text-align: center;
+  box-sizing: border-box;
+  height: 200px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.4);
+  overflow: hidden;
+  width: 33%;
+  &[data-length="3"] {
+    width: 33.33%;
+  }
+  &[data-length="2"] {
+    width: 50%;
+  }
+  &[data-length="1"] {
+    width: 100%;
+  }
+  .label {
+    background: #00000000;
+    color: white;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+    line-height: 30px;
+    .icon.flaticon-elevator {
+      padding: 10px;
+    }
+  }
+  .elevator-current-floor {
+    font-size: 52px;
+    background: white;
+    padding: 10px 0px;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black inset;
+    border: 1px solid #4d4d4d;
+  }
+  .elevator-move {
+    font-size: 40px;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    color: #ffffff;
+  }
+}
+
+[data-state="up"] .elevator-move__up,
+[data-state="down"] .elevator-move__down {
+  color: green;
+}
